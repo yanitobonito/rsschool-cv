@@ -36,6 +36,6 @@ function echo(text)
 > _**specialty:** Commercial business ("Brest State University Trade and Technology College")_
 > 
 ### Languages:
-  * English - A1
+  * __English__ - A1
 
 
