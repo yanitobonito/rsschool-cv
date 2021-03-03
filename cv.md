@@ -32,3 +32,10 @@ function echo(text)
 }
 ```
 
+> ### Education:
+> _**specialty:** Commercial business ("Brest State University Trade and Technology College")_
+> 
+### Languages:
+  * English - A1
+
+
